@@ -4,6 +4,6 @@
     "@sap/hdi-deploy": "^4.*"
   },
   "scripts": {
-    "start": "node node_modules/@sap/hdi-deploy/deploy.js --parameter stop_on_error=false"
+    "start": "node node_modules/@sap/hdi-deploy/deploy.js  --parameter stop_on_error=false"
   }
 }
